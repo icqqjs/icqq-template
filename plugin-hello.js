@@ -1,5 +1,5 @@
 "use strict"
-const { segment } = require("oicq")
+const { segment } = require("icqq")
 const { bot } = require("./index")
 
 // hello world

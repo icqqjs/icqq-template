@@ -1,4 +1,4 @@
-### [oicq](https://github.com/takayama-lily/oicq) template
+### [icqq](https://github.com/takayama-lily/oicq) template
 
 ----
 

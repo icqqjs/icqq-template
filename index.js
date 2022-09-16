@@ -1,5 +1,5 @@
 "use strict"
-const { createClient } = require("oicq")
+const { createClient } = require("icqq")
 
 const account = 0
 

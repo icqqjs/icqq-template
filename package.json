@@ -1,5 +1,5 @@
 {
-  "name": "oicq-template",
+  "name": "icqq-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "oicq": "^2.2.0"
+    "icqq": "^0.0.1"
   },
   "devDependencies": {
     "@types/node": "^16.6.1"
