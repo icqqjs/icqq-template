@@ -3,7 +3,7 @@ const { createClient } = require("icqq")
 
 const account = 0
 
-const bot = createClient(account)
+const bot = createClient()
 
 bot
 .on("system.login.qrcode", function (e) {
@@ -12,7 +12,7 @@ bot
 		this.login()
 	})
 })
-.login()
+.login(account)
 
 exports.bot = bot
 
